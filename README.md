@@ -5,15 +5,15 @@ This project performs real-time detection and tracking of football players in a 
 ---
 
 ## 📁 Project Structure
+```bash
 project-root/
 │
 ├── main.py # Main tracking script
 ├── yolov11_model.pt # Trained YOLOv11 model (not shared here)
 ├── 15sec_input_720p.mp4 # Input video
 ├── tracked_match.mp4 # Output video (generated)
-├── requirements.txt # Required Python packages
-└── README.md # This documentation
-
+└── requirements.txt # Required Python packages
+```
 ---
 
 ## ⚙️ Setup Instructions
